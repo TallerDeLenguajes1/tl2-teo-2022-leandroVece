@@ -2,7 +2,7 @@ using System;
 
 namespace cuenta
 {
-    public class CuentaDolar
+    public class CuentaDolar :cuenta
     {
         private int capital;
            
@@ -26,11 +26,5 @@ namespace cuenta
                 }     
                 else
                     return "el monto solisitado es mayor al que se disponbe actualmente";
-        }
-
-        public string insercion(int monto){
-            this.capital += monto;
-            return "ingresado " + monto + "cuenta actual" capita;
-
         }
 }

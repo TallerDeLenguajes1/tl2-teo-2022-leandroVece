@@ -2,7 +2,7 @@ using System;
 
 namespace cuenta
 {
-    public class CuentaPeso
+    public class CuentaPeso : cuenta
     {
         private int capital;
            
@@ -28,9 +28,4 @@ namespace cuenta
                     return "el monto solisitado es mayor al que se disponbe actualmente";
         }
 
-        public string insercion(int monto){
-            this.capital += monto;
-            return "ingresado " + monto + "cuenta actual" capita;
-
-        }
 }
