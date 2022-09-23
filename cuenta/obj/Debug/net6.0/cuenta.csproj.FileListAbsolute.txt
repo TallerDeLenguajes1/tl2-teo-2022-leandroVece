@@ -1,0 +1,15 @@
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.csproj.AssemblyReference.cache
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.AssemblyInfoInputs.cache
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.AssemblyInfo.cs
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\bin\Debug\net6.0\cuenta.exe
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\bin\Debug\net6.0\cuenta.deps.json
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\bin\Debug\net6.0\cuenta.runtimeconfig.json
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\bin\Debug\net6.0\cuenta.dll
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\bin\Debug\net6.0\cuenta.pdb
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.dll
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\refint\cuenta.dll
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.pdb
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\cuenta.genruntimeconfig.cache
+C:\Users\Alumno\cuenta\tl2-teo-2022-leandroVece\cuenta\obj\Debug\net6.0\ref\cuenta.dll
