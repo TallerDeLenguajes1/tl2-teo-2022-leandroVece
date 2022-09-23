@@ -2,29 +2,34 @@ using System;
 
 namespace cuenta
 {
-    public class CuentaDolar :cuenta
+    public class CuentaDolar :cuentaBase
     {
-        private int capital;
            
-            
-        public cliente(int capital){
-            this.capital = capita;
+        private int capital;
+
+        public override int Capital { get => Capital; set => Capital = value; }
+
+        public CuentaDolar(int capital):base(capital){
+            this.capital = capital;
         }
 
         public string extraccion(int monto, int tipoOperacion){
             
-            if (operacion == 1 && monto <= 200)
-                return descontar(monto);
-            else
-                return descontar(monto);
+            if (tipoOperacion == 1 && monto <= 200)
+                return descontarCajero(monto);
+            else{
+                capital -= monto;
+                return "monto restante " + capital;   
+            }
         }
 
-        private string descontarCajero(int monto){
+        public string descontarCajero(int monto){
                 if(monto < capital){
-                    capita -= monto;
+                    capital -= monto;
                     return "monto restante " + capital;
                 }     
                 else
                     return "el monto solisitado es mayor al que se disponbe actualmente";
         }
+    }
 }

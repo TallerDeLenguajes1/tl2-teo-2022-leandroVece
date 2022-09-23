@@ -6,11 +6,9 @@ namespace cuenta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CuentaAhorro newCuenta = new CuentaAhorro(800);
 
-            CuentaAhorro newCuenta = new CuentaAhorro(400);
-
-            newCuenta.
+            Console.WriteLine(newCuenta.ingresar(200));
         }
     }
 }
